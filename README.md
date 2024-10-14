@@ -36,4 +36,4 @@ This README contains all the LeetCode problems solved by Akshat Tiwari along wit
 - [N Th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:44:57
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:45:00
 - [House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:45:04
-- [Decode String](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:47:28
+- [Decode String](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) - Completed on 2024-10-13 18:47:28
