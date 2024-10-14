@@ -1,6 +1,6 @@
 # LeetCode Tracker
 
-This README contains all the LeetCode problems solved along with their completion timestamps.
+This README contains all the LeetCode problems solved by Akshat Tiwari along with their completion timestamps.
 
 ## Solved Problems
 
