@@ -37,3 +37,4 @@ This README contains all the LeetCode problems solved by Akshat Tiwari along wit
 - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:45:00
 - [House Robber](https://leetcode.com/problems/house-robber/description/?envType=study-plan-v2&envId=leetcode-75) - Completed before 2024-10-13 18:45:04
 - [Decode String](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) - Completed on 2024-10-13 18:47:28
+- [Dota2 Senate](https://leetcode.com/problems/dota2-senate/submissions/1423759183/?envType=study-plan-v2&envId=leetcode-75) - Completed on 2024-10-15 17:57:34
